@@ -2,23 +2,15 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
-
 ## Steps
 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-private-nft.git
+git clone https://github.com/Mnuralim/swisstronik-deploy-private-nft-x.git
 ```
 ```bash
-cd swisstronik-deploy-private-nft
+cd swisstronik-deploy-private-nft-x
 ```
 
 ### 2. Install Dependency
